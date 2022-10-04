@@ -1,0 +1,474 @@
+
+.container{
+    width: 100%;
+    height: 100%;
+    overflow-x: clip;
+}
+
+body{
+    margin: 0px;
+}
+
+.header 
+       {
+       height: 48px;
+       margin: 0px 44px;
+       padding: 12px 0px 16px 0px;
+       }
+
+    .img1 
+       {
+       height: 91px;
+       width: 155px;
+       margin-top: -19px;
+       }
+
+
+   .logolinkedin 
+       {
+       width: 50%;
+       height: 48px;
+       float: left;
+       }
+
+    .details
+       {
+       width: 50%;
+       height: 48px;
+       float: left;
+       margin-top: 15px;
+       text-align: right;
+       }
+
+    .joinnow 
+       {
+       font-size: 16px;
+       text-decoration: none;
+       color: black;
+       padding: 12px 24px;
+       }
+
+    .Signin 
+       {
+       font-size: 73px;
+       float: left;
+       margin-top: 100px;
+    
+        }
+
+    .bt
+        {
+        height: min-content;
+        min-height: 48px;
+        border-radius: 24px;
+        padding-top: 12px;
+        padding-bottom: 12px;
+        padding-left: 24px;
+        padding-right: 24px;
+        text-align: center;
+        font-size: 64px;
+        font-weight: 500;
+        }
+
+    .button
+        {
+        box-shadow: 0 0 0 1px;
+        }
+
+.submain
+    {
+    width: 100%;
+    height: 640px;
+    padding-top: 40px;
+    }
+
+    .mainleft
+        {
+        width: 50%;
+        height: 640px;
+        float: left;
+        margin: 0px 0px 0px 44px;
+        } 
+
+    .mainright
+        {
+        width: 46%;
+        height: 640px;
+        float: left;
+        }
+
+    .quote
+        {
+        font-size: 56px;
+        font-weight: 200;
+        font-family: system-ui;
+        color: #8f5849;
+        margin: 0px;
+        }
+
+        .jobs {
+            width: 408px;
+            margin-top: 48px;
+        }
+    
+    .name 
+        {
+        width: 100%;
+        height: 56px;
+        margin-bottom: 12px;
+        border-radius: 4px;
+        font-size: 16px;
+        padding-left: 10px;
+        border: 1px solid;
+        }
+
+    .button 
+        {
+        border-radius: 100px;
+        padding-top: 12px;
+        padding-bottom: 12px;
+        padding-left: 24px;
+        padding-right: 24px;
+        color: #0a66c2;
+        font-size: 16px;
+        box-shadow: 0 0 0 1px;
+        background-color: #ffffffed;
+        }
+
+    .submitbutton
+        {
+        border-radius: 28px;
+        padding-top: 12px;
+        padding-bottom: 12px;
+        padding-left: 24px;
+        padding-right: 24px;
+        float: left;
+        font-size: 20px;
+        color: #ffffffed;
+        box-shadow: 0 0 0 3px;
+        background-color:#0a66c2;
+        min-height: 56px;
+        border: 1px;
+        }
+
+    .lnkdnimg
+        {
+        width: 128%;
+        height: 100%px;
+        }
+
+    .h1jobs
+        {
+        font-size: 16px;
+        font-family: sans-serif;
+        font-weight: 500;
+        display: inline;
+        padding: 10px 24px;
+        }
+        
+    .search
+        {
+        padding-top: 8px;
+        padding-bottom: 8px;
+        }
+
+.submain1
+        {
+        width: 100%;
+        height: 280px;
+        background-color: #eeecef;
+        padding-top: 50px;
+        }
+    
+    .explore
+        {
+        width: 46%;
+        float: left;
+        height: 280px;
+        padding-left: 44px;
+        }
+
+    .topics
+        {
+        width: 50%;
+        float: left;
+        height: 280px;
+        }
+
+    .secondary-heading
+        {
+        font-size: 48px;
+        font-family: monospace;
+        font-weight: 100;
+        margin: 0px;
+        }
+
+    .unordered
+       {
+       padding: 0px;
+       margin: 0px;
+       }
+
+    .content-cap
+       {
+       font-size: 16px;
+       font-family: monospace;
+       font-weight: 300;
+       }
+
+    .button1 
+       {
+       list-style: none;
+       border-radius: 21px;
+       padding-top: 12px;
+       padding-bottom: 12px;
+       padding-left: 24px;
+       padding-right: 24px;
+       float: left;
+       font-size: 20px;
+       color: #0a66c2;
+       margin-bottom: 11px;
+       box-shadow: 0 0 0 1px;
+       background-color: #ffffffed;
+       margin-right: 6px;
+       }
+
+    .postjob
+        {
+        width: 50%;
+        float: left;
+        height: 300px;
+        margin: 0px;
+        padding-left: 44px;
+        }
+
+    .postjobright
+        {
+        width: 46%;
+        height: 300px;
+        float: left;
+        }
+
+    .button2 
+        {
+        border-radius: 28px;
+        padding-top: 12px;
+        padding-bottom: 12px;
+        padding-left: 24px;
+        padding-right: 24px;
+        font-size: 20px;
+        color: #0a66c2;
+        background-color: #ffffffed;
+        border: 1px solid;
+        margin-top: 57px;
+        }
+
+.submain2
+       {
+        width: 100%;
+        height: 192px;   
+        padding: 70px 0px 70px 0px;
+        }
+
+        .secondary-headingjob
+        {
+        font-size: 40px;
+        font-family: monospace;
+        font-weight: 400;
+        margin: 0px 100px 0px 0px;
+        color: #8f5849;
+        line-height: 55px;
+        }
+
+.submain3
+        {
+        width: 100%;
+        height: 580px;
+        padding: 60px 0px 60px 44px;
+        }
+
+        .img2
+        {
+        width: 50%;
+        height: 580px;
+        float: left;
+        padding: 60px 0px 60px 0px;
+
+        }
+
+        .img3
+        {
+        width: 50%;
+        height: 580px;
+        float: left; 
+        padding: 60px 0px 60px 0px;
+        }
+
+        .size
+        {
+        width: 50%;
+        }
+
+        .button3 
+        {
+        border-radius: 28px;
+        padding-top: 12px;
+        padding-bottom: 12px;
+        padding-left: 24px;
+        padding-right: 24px;
+        font-size: 20px;
+        box-shadow: 1 0 0 1px;
+        background-color: #ffffffed;
+        margin-top: 40px;
+        border: 1px solid;
+        }
+
+        .secondary-heading1
+        {
+
+        font-size: 48px;
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        font-weight: 100;
+        margin-bottom: 0px;
+        max-width: 431px;
+        }
+
+    .select1
+        {
+        width: 360px;
+        height: 55px;
+        font-size: 20px;
+        border-width: 1px;
+        border-radius: 5px;
+        font-family: system-ui;
+        padding-left: 16px;
+        margin-top: 40px;
+        }
+            
+.submain4
+        {
+        width: 100%;
+        height: 395px;
+        padding: 60px 0px 60px 44px;  
+        }
+            
+    .vidleft
+        {
+        width: 40%;
+        height: 480px;
+        float: left;
+        }
+
+    .vidright
+        {
+        width: 60%;
+        height: 480px;
+        float: left;
+        }
+
+    .ytbvid
+        {
+        width: 100%;
+        height: 73%;
+        border-radius: 4px;
+        }
+
+    .secondary-heading2
+        {
+        font-size: 40px;
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        font-weight: 100;
+        margin-bottom: 0px;
+        line-height: 1.25;
+        margin: 0px 0px 0px 48px;
+        }
+
+    .secondary-headingjob5
+       {
+       font-size: 40px;
+       font-family: monospace;
+       font-weight: 400;
+       color: #8f5849;
+       margin: 0px 0px 0px 48px;
+       padding-top: 100px;
+       }
+.submain5
+    {
+    width: 100%;
+    height: 270px;
+    padding-top: 25px;
+    background-color: #ebe7ed;
+    }
+
+    .logof
+       {
+       float: left;
+       width: 20%;
+       height: 270px;
+       } 
+   
+       .bfooter{
+       float: left;
+       width: 20%;
+       height: 270px;
+    }  
+
+    .img5{
+        height: 63px;
+        width: 106px;
+        margin-left: 44px;
+    }
+
+    .general {
+        font-size: 16px;
+        font-weight: 600;
+        margin-top: 25px;
+        margin-bottom: 0px;
+        font-family: system-ui;
+    }
+    .footerul
+        {
+        list-style: none;
+        padding: 0px;
+        font-family: monospace;
+        font-size: 14px;
+        line-height: 1.55;
+        }
+.mainfooter{
+    width: 100%;
+    height: 55px;
+}
+
+.footerlogo{
+    height: 55px;
+    display: flex;
+}
+.mainfooterul{
+    height: 55px;
+    padding: 0px;
+    margin: 0px 50px 0px 50px;
+}
+
+.logoblack {
+    width: 55px;
+    height: 14px;
+    padding: 8px;
+}
+
+.copy{
+    font-weight: 100;
+    font-size: 13px;
+    display: inline;
+    color: #00000099;
+    margin: 0px;
+    padding: 8px;
+}
+
+.footerli{
+    list-style: none;
+    display: flex;
+    font-size: 13px;
+    padding: 8px;
+    color: #00000099;
+    font-family: inherit;
+}
